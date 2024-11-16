@@ -1,0 +1,23 @@
+export const marcasPecaCarro = [
+    { value: 'Audi', label: 'Audi' },
+    { value: 'BMW', label: 'BMW' },
+    { value: 'Chevrolet', label: 'Chevrolet' },
+    { value: 'Ford', label: 'Ford' },
+    { value: 'Fiat', label: 'Fiat' },
+    { value: 'Honda', label: 'Honda' },
+    { value: 'Hyundai', label: 'Hyundai' },
+    { value: 'Nissan', label: 'Nissan' },
+    { value: 'Peugeot', label: 'Peugeot' },
+    { value: 'Renault', label: 'Renault' },
+    { value: 'Toyota', label: 'Toyota' },
+    { value: 'Volkswagen', label: 'Volkswagen' },
+    { value: 'Mitsubishi', label: 'Mitsubishi' },
+    { value: 'Kia', label: 'Kia' },
+    { value: 'Subaru', label: 'Subaru' },
+    { value: 'Mazda', label: 'Mazda' },
+    { value: 'Chrysler', label: 'Chrysler' },
+    { value: 'Mercedes-Benz', label: 'Mercedes-Benz' },
+    { value: ' Citroen', label: 'Citroen' },
+    { value: ' Outro', label: 'Outro' },
+  ];
+  
